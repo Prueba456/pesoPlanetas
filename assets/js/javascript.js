@@ -1,5 +1,5 @@
 var peso = parseInt(prompt("Ingresa tu peso"));
-var planeta = parseInt(prompt("Elige tu planeta \n1. marte 2.jupiter"));
+var planeta = parseInt(prompt("Elige tu planeta \n1. marte 2.jupiter 3.saturno 4.urano"));
 var gravedadTierra = 9.8;
 var gravedadMarte = 3.7;
 var gravedadJupiter = 24.8;
